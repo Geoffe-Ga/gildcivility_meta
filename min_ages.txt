@@ -1,0 +1,1 @@
+{"politics": 8, "news": 1, "worldnews": 1, "worldpolitics": 0, "politicaldiscussion": 24, "gildcivility_test": 1}
